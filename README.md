@@ -8,7 +8,7 @@
  ### Purpose of Sales Analytics
  The purpose of sales analytics is to leverage data insights for optimizing sales strategies, enhancing performance, and driving revenue growth.
 
- ### Importance of AnalyZing Sales Data
+ ### Importance of Analyzing Sales Data
 Identify sales patterns and track key performance indicators
 
 ### Role of Reports
