@@ -1,2 +1,2 @@
-# Sales Report 
-1. Create a customer performance report(https://github.com/MithraJayabalan/Excel-Sales-Finance-Analytics)
+### Sales Report 
+1. Create a customer performance report([https://github.com/MithraJayabalan/Excel-Sales-Finance-Analytic](https://github.com/MithraJayabalan/Excel-Sales-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)https://github.com/MithraJayabalan/Excel-Sales-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdfs)
