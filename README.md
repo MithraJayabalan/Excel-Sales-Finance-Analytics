@@ -19,7 +19,7 @@ Determine effective customer discounts, facilitate negotiations with consumers, 
 ### Objective
 
 1. Create Profit & Loss Reports by Fiscal Year (https://github.com/MithraJayabalan/Excel-Sales-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
-2. Create Profit & Loss Reports by Markets
+2. Create Profit & Loss Reports by Markets (https://github.com/MithraJayabalan/Excel-Sales-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
  ### Purpose of Finance Analytics
  Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
